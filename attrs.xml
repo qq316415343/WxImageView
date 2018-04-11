@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="WxImageView">
+        <attr name="boultSize" format="dimension" />
+        <attr name="border" format="dimension" />
+        <attr name="borderColor" format="color" />
+    </declare-styleable>
+</resources>
